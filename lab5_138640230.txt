@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab5.py
+===============================================================
+    User login name: ajabegu
+    Linux system name: ajabegu-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/ajabegu/ops445/lab5
+    Start at: Thu Jul 10 20:49:23 2025
+===============================================================
